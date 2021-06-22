@@ -12,6 +12,8 @@
         "utility": "cpp",
         "valarray": "cpp",
         "cmath": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
     }
 }
